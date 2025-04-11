@@ -6,6 +6,8 @@
 
 *Data Science and Strategic Analytics Graduate Program* - [Stockton University](https://stockton.edu)
 
+![Pet Puffs logo](https://github.com/Decabra/pet-puffs/blob/d152c8dd62c9cb3ffb36f3fd7f18228cea91d5cc/images/pet_puffs_logo.png)
+
 ### Languages & Environment
 
 - Python, SQL, Google Colab, Jupyter Notebook, MySQLWorkbench, GitHub

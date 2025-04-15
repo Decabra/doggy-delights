@@ -1,4 +1,4 @@
-# Pet Puffs
+# Doggy Delights
 
 ## Data Gathering & Warehousing
 
@@ -12,10 +12,7 @@
 
 - Python, SQL, Google Colab, Jupyter Notebook, MySQLWorkbench, GitHub
 
-> [!NOTE]
-> This is a satirical company and we do not endorse or support its mission and products.
-
-Pet Puffs exists to enhance the bond between pets and their owners by delivering innovative, unforgettable smoking experiences for all. 
+Doggy Delights exists to enhance the bond between pets and their owners by delivering innovative, unforgettable treat experiences for all.
 
 ### Data Sources
 
@@ -24,13 +21,14 @@ Pet Puffs exists to enhance the bond between pets and their owners by delivering
 
 ### Data Cleaning and Transformation
 
-Python was used to clean and transform the Pet Puffs dataset.  The following actions were performed:
+Python was used to clean and transform the Doggy Delights dataset. The following actions were performed:
 
 - converted all coluimn names to lowercase with no spaces or special characters to better work with SQL
 - removed duplicate rows if they were identical
 - removed leading and trailing whitespace characters from column names
 - removed unused columns from the American Kennel Club dataset
 - checked for outliers
+- replaced NaN values with None, Unknown, or 0 values depending on column needs
 
 ### Formulas Used in Column Creation
 
@@ -99,20 +97,19 @@ Python was used to clean and transform the Pet Puffs dataset.  The following act
 | id                     | a unique integer for each product |
 | name                   | name of the product              |
 | flavor                 | flavor of the product            |
-| nic_level              | level of nicotine in the product |
 | size                   | size of the product              |
 | launch_date            | date the product was released    |
 | recommended_for        | target audience of the product   |
 
-#### cigarette_consumption
+#### treat_consumption
 
 | Column Name            | Deinitions                       |
 | ---------------------- | -------------------------------- |
 | id                     | a unique integer for consumption |
 | breed_id               | foreign key connecting the dog_breed table |
 | product_id             | foreign key connecting the product_catalog table |
-| quantity               | number of cigarettes consumed    |
-| frequency              | how often cigarettes are consumed |
+| quantity               | number of treats consumed    |
+| frequency              | how often treats are consumed |
 
 #### survey_response
 

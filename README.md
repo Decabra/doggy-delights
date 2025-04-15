@@ -6,7 +6,7 @@
 
 *Data Science and Strategic Analytics Graduate Program* - [Stockton University](https://stockton.edu)
 
-![Doggy Delights logo](https://github.com/Decabra/pet-puffs/blob/80b5d894bd28e4417abc02b954ace51ca437c42e/images/doggy_delights_logo.png)
+![Doggy Delights logo](https://github.com/Decabra/pet-puffs/blob/da7e229e5bfd86a678aeaf549bcc0936b8842103/images/doggy_delights_gwp_logo.png)
 
 ### Languages & Environment
 

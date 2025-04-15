@@ -12,6 +12,8 @@
 
 - Python, SQL, Google Colab, Jupyter Notebook, MySQLWorkbench, GitHub
 
+### Mission
+
 Doggy Delights exists to enhance the bond between pets and their owners by delivering innovative, unforgettable treat experiences for all.
 
 ### Data Sources

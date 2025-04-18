@@ -1,0 +1,278 @@
+breed,temperament,popularity,min_height,max_height,min_weight,max_weight,min_expectancy,max_expectancy,energy_level_value,energy_level_category,trainability_value,trainability_category,demeanor_value,demeanor_category
+Affenpinscher,"Confident, Famously Funny, Fearless",148.0,22.86,29.21,3.17514659,4.535923700000001,12.0,15.0,0.6,Regular Exercise,0.8,Easy Training,1.0,Outgoing
+Afghan Hound,"Dignified, Profoundly Loyal, Aristocratic",113.0,63.5,68.58,22.6796185,27.2155422,12.0,15.0,0.8,Energetic,0.2,May be Stubborn,0.2,Aloof/Wary
+Airedale Terrier,"Friendly, Clever, Courageous",60.0,58.42,58.42,22.6796185,31.751465900000003,11.0,14.0,0.6,Regular Exercise,1.0,Eager to Please,0.8,Friendly
+Akita,"Courageous, Dignified, Profoundly Loyal",47.0,60.96,71.12,31.751465900000003,58.9670081,10.0,13.0,0.8,Energetic,1.0,Eager to Please,0.6,Alert/Responsive
+Alaskan Malamute,"Affectionate, Loyal, Playful",58.0,58.42,63.5,34.01942775,38.55535145,10.0,14.0,0.8,Energetic,0.4,Independent,0.8,Friendly
+American Bulldog,"Loyal, Self-Confident",0.0,50.8,63.5,27.2155422,45.359237,10.0,12.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+American English Coonhound,"Sweet, Mellow, Sociable",175.0,58.42,66.04,20.41165665,29.48350405,11.0,12.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+American Eskimo Dog,"Playful, Perky, Smart",122.0,22.86,48.26,2.72155422,15.875732950000002,13.0,15.0,0.8,Energetic,1.0,Eager to Please,1.0,Outgoing
+American Foxhound,"Independent, Easy-Going, Sweet-Tempered",186.0,53.34,63.5,27.2155422,31.751465900000003,11.0,13.0,0.8,Energetic,0.4,Independent,0.8,Friendly
+American Hairless Terrier,"Energetic, Alert, Curious",136.0,30.48,40.64,5.4431084400000005,7.25747792,14.0,16.0,0.0,Unknown,0.0,Unknown,0.0,Unknown
+American Leopard Hound,"Sociable, Energetic, Intelligent",0.0,53.34,68.58,20.41165665,31.751465900000003,12.0,15.0,0.8,Energetic,1.0,Eager to Please,0.6,Alert/Responsive
+American Staffordshire Terrier,"Confident, Smart, Good-Natured",85.0,43.18,48.26,18.1436948,31.751465900000003,12.0,16.0,0.6,Regular Exercise,0.6,Agreeable,0.6,Alert/Responsive
+American Water Spaniel,"Eager, Happy, Charming",166.0,38.1,45.72,11.33980925,20.41165665,10.0,14.0,0.6,Regular Exercise,1.0,Eager to Please,0.8,Friendly
+Anatolian Shepherd Dog,"Loyal, Independent, Reserved",90.0,68.58,73.66,36.2873896,68.0388555,11.0,13.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Appenzeller Sennenhund,"Agile, Versatile, Lively",0.0,48.26,55.88,21.77243376,31.751465900000003,12.0,15.0,1.0,Needs Lots of Activity,0.2,May be Stubborn,0.4,Reserved with Strangers
+Australian Cattle Dog,"Alert, Curious, Pleasant",55.0,43.18,50.8,15.875732950000002,22.6796185,12.0,16.0,1.0,Needs Lots of Activity,0.2,May be Stubborn,0.4,Reserved with Strangers
+Australian Kelpie,"Loyal, Alert, Intelligent",0.0,43.18,50.8,0.0,0.0,10.0,13.0,0.8,Energetic,1.0,Eager to Please,0.6,Alert/Responsive
+Australian Shepherd,"Smart, Work-Oriented, Exuberant",17.0,45.72,58.42,18.1436948,29.48350405,12.0,15.0,0.8,Energetic,1.0,Eager to Please,0.6,Alert/Responsive
+Australian Stumpy Tail Cattle Dog,"Alert, Trainable, Comical",0.0,43.18,50.8,14.51495584,20.41165665,12.0,15.0,0.8,Energetic,0.8,Easy Training,0.6,Alert/Responsive
+Australian Terrier,"Affectionate, Courageous, Spirited",140.0,25.4,27.94,6.80388555,9.0718474,11.0,15.0,0.8,Energetic,0.6,Agreeable,0.8,Friendly
+Azawakh,"Loyal, Independent, Deeply Affectionate",0.0,59.69,73.66,14.968548210000002,24.947580350000003,12.0,15.0,0.6,Regular Exercise,0.4,Independent,0.8,Friendly
+Barbet,"Friendly, Bright, Sweet-Natured",0.0,48.26,62.23,15.875732950000002,29.48350405,12.0,14.0,0.6,Regular Exercise,0.6,Agreeable,0.8,Friendly
+Basenji,"Independent, Smart, Poised",87.0,40.64,43.18,9.97903214,10.88621688,13.0,14.0,0.8,Energetic,0.4,Independent,0.4,Reserved with Strangers
+Basset Fauve de Bretagne,"Smart, Cheerful, Determined",0.0,31.75,39.37,12.24699399,15.875732950000002,12.0,12.0,0.6,Regular Exercise,0.2,May be Stubborn,1.0,Outgoing
+Basset Hound,"Charming, Patient, Low-Key",39.0,38.1,38.1,18.1436948,29.48350405,12.0,13.0,0.2,Couch Potato,0.4,Independent,0.8,Friendly
+Bavarian Mountain Scent Hound,"Loyal, Versatile, Reserved with Strangers",0.0,43.18,52.07,16.78291769,29.937096420000003,12.0,15.0,0.6,Regular Exercise,0.6,Agreeable,0.4,Reserved with Strangers
+Beagle,"Friendly, Curious, Merry",6.0,33.02,38.1,5.8967008100000005,13.6077711,10.0,15.0,0.8,Energetic,0.6,Agreeable,0.8,Friendly
+Bearded Collie,"Smart, Bouncy, Charismatic",127.0,50.8,55.88,20.41165665,24.947580350000003,12.0,14.0,0.6,Regular Exercise,0.4,Independent,1.0,Outgoing
+Beauceron,"Gentle, Faithful, Obedient",124.0,60.96,69.85,31.751465900000003,49.895160700000005,10.0,12.0,1.0,Needs Lots of Activity,0.8,Easy Training,0.4,Reserved with Strangers
+Bedlington Terrier,"Loyal, Charming, Frollicking",141.0,38.1,44.45,7.71107029,10.43262451,11.0,16.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+Belgian Laekenois,"Affectionate, Alert, Intelligent",0.0,55.88,66.04,24.947580350000003,29.48350405,10.0,12.0,0.8,Energetic,0.8,Easy Training,0.4,Reserved with Strangers
+Belgian Malinois,"Confident, Smart, Hardworking",43.0,55.88,66.04,18.1436948,36.2873896,14.0,16.0,0.8,Energetic,0.8,Easy Training,0.4,Reserved with Strangers
+Belgian Sheepdog,"Bright, Watchful, Serious-Minded",125.0,55.88,66.04,20.41165665,34.01942775,12.0,14.0,0.8,Energetic,0.8,Easy Training,0.4,Reserved with Strangers
+Belgian Tervuren,"Courageous, Alert, Intelligent",106.0,55.88,66.04,20.41165665,34.01942775,12.0,14.0,0.8,Energetic,0.8,Easy Training,0.4,Reserved with Strangers
+Bergamasco Sheepdog,"Independent, Sociable, Intelligent",187.0,55.88,59.69,25.85476509,38.10175908,13.0,15.0,0.4,Calm,0.6,Agreeable,0.4,Reserved with Strangers
+Berger Picard,"Loyal, Good-Natured, Observant",144.0,54.61,64.77,22.6796185,31.751465900000003,12.0,13.0,1.0,Needs Lots of Activity,0.8,Easy Training,0.6,Alert/Responsive
+Bernese Mountain Dog,"Good-Natured, Calm, Strong",22.0,58.42,69.85,31.751465900000003,52.16312255,7.0,10.0,0.8,Energetic,0.8,Easy Training,0.4,Reserved with Strangers
+Bichon Frise,"Playful, Curious, Peppy",46.0,24.13,29.21,5.4431084400000005,8.164662660000001,14.0,15.0,0.6,Regular Exercise,0.6,Agreeable,1.0,Outgoing
+Biewer Terrier,"Intelligent, Devoted, Amusing",0.0,17.78,27.94,1.81436948,3.62873896,16.0,16.0,0.4,Calm,1.0,Eager to Please,1.0,Outgoing
+Black and Tan Coonhound,"Easy-Going, Bright, Brave",138.0,58.42,68.58,29.48350405,49.895160700000005,10.0,12.0,0.6,Regular Exercise,0.4,Independent,0.8,Friendly
+Black Russian Terrier,"Intelligent, Calm, Powerful",118.0,66.04,76.2,36.2873896,58.9670081,10.0,12.0,0.8,Energetic,0.8,Easy Training,0.4,Reserved with Strangers
+Bloodhound,"Friendly, Independent, Inquisitive",49.0,58.42,68.58,36.2873896,49.895160700000005,10.0,12.0,0.6,Regular Exercise,0.4,Independent,0.6,Alert/Responsive
+Bluetick Coonhound,"Smart, Devoted, Tenacious",130.0,53.34,68.58,20.41165665,36.2873896,11.0,12.0,0.8,Energetic,0.6,Agreeable,0.8,Friendly
+Boerboel,"Confident, Intelligent, Calm",121.0,55.88,68.58,68.0388555,90.718474,9.0,11.0,0.4,Calm,0.6,Agreeable,0.4,Reserved with Strangers
+Bohemian Shepherd,"Friendly, Devoted, Alert and Intelligent",0.0,49.022000000000006,55.118,16.78291769,27.2155422,12.0,15.0,0.6,Regular Exercise,0.8,Easy Training,0.6,Alert/Responsive
+Bolognese,"Playful, Easy-Going, Devoted",0.0,25.4,30.48,2.4947580350000003,4.082331330000001,12.0,14.0,0.4,Calm,0.6,Agreeable,0.8,Friendly
+Border Collie,"Affectionate, Smart, Energetic",35.0,45.72,55.88,13.6077711,24.947580350000003,12.0,15.0,1.0,Needs Lots of Activity,1.0,Eager to Please,0.4,Reserved with Strangers
+Border Terrier,"Affectionate, Happy, Plucky",88.0,30.48,38.1,5.216312255,7.030681735,12.0,15.0,0.6,Regular Exercise,0.8,Easy Training,0.8,Friendly
+Borzoi,"Affectionate, Loyal, Regally Dignified",103.0,66.04,71.12,27.2155422,47.62719885,9.0,14.0,0.8,Energetic,0.4,Independent,0.6,Alert/Responsive
+Boston Terrier,"Friendly, Bright, Amusing",21.0,38.1,43.18,5.4431084400000005,11.33980925,11.0,13.0,0.6,Regular Exercise,1.0,Eager to Please,1.0,Outgoing
+Bouvier des Flandres,"Affectionate, Courageous, Strong-Willed",84.0,59.69,69.85,31.751465900000003,49.895160700000005,10.0,12.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+Boxer,"Bright, Fun-Loving, Active",11.0,54.61,63.5,6.80388555,36.2873896,10.0,12.0,0.8,Energetic,0.8,Easy Training,1.0,Outgoing
+Boykin Spaniel,"Friendly, Eager, Lovable",100.0,35.56,45.72,11.33980925,18.1436948,10.0,15.0,0.6,Regular Exercise,1.0,Eager to Please,0.6,Alert/Responsive
+Bracco Italiano,"Affectionate, Intelligent, Enthusiastic",0.0,53.34,68.58,24.947580350000003,40.8233133,10.0,14.0,0.8,Energetic,0.8,Easy Training,0.6,Alert/Responsive
+Braque du Bourbonnais,"Affectionate, Adaptable, Gentle",0.0,48.26,57.15,15.875732950000002,24.04039561,10.0,12.0,0.6,Regular Exercise,1.0,Eager to Please,0.6,Alert/Responsive
+Braque Francais Pyrenean,"Friendly, Smart, Willing to Please",0.0,46.99,58.42,18.1436948,24.947580350000003,0.0,0.0,1.0,Needs Lots of Activity,0.0,Unknown,0.0,Unknown
+Briard,"Confident, Smart, Faithful",132.0,55.88,68.58,24.947580350000003,45.359237,12.0,12.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Brittany,"Bright, Fun-Loving, Upbeat",26.0,44.45,52.07,13.6077711,18.1436948,12.0,14.0,1.0,Needs Lots of Activity,1.0,Eager to Please,0.8,Friendly
+Broholmer,"Friendly, Watchful, Loving",0.0,69.85,74.93,40.8233133,68.0388555,8.0,10.0,0.4,Calm,0.0,Unknown,0.0,Unknown
+Brussels Griffon,"Loyal, Alert, Curious",98.0,17.78,25.4,3.62873896,4.535923700000001,12.0,15.0,0.6,Regular Exercise,0.6,Agreeable,0.8,Friendly
+Bull Terrier,"Playful, Charming, Mischievous",62.0,53.34,55.88,22.6796185,31.751465900000003,12.0,13.0,0.8,Energetic,0.4,Independent,0.8,Friendly
+Bulldog,"Friendly, Courageous, Calm",5.0,35.56,38.1,18.1436948,22.6796185,8.0,10.0,0.6,Regular Exercise,0.6,Agreeable,0.8,Friendly
+Bullmastiff,"Affectionate, Loyal, Brave",51.0,60.96,68.58,45.359237,58.9670081,7.0,9.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+Cairn Terrier,"Alert, Cheerful, Busy",69.0,24.13,25.4,5.8967008100000005,6.35029318,13.0,15.0,0.6,Regular Exercise,0.6,Agreeable,0.8,Friendly
+Canaan Dog,"Confident, Alert, Vigilant",179.0,48.26,60.96,15.875732950000002,24.947580350000003,12.0,15.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Cane Corso,"Affectionate, Intelligent, Majestic",32.0,59.69,69.85,0.0,0.0,9.0,12.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+Cardigan Welsh Corgi,"Affectionate, Loyal, Smart",68.0,26.67,31.75,11.33980925,17.23651006,12.0,15.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+Carolina Dog,"Loyal, Independent, Reserved with Strangers",0.0,45.085,49.53,13.6077711,24.947580350000003,0.0,0.0,0.6,Regular Exercise,1.0,Eager to Please,0.6,Alert/Responsive
+Catahoula Leopard Dog,"Loyal, Independent, Watchful",0.0,55.88,60.96,22.6796185,43.09127515,10.0,14.0,1.0,Needs Lots of Activity,0.4,Independent,0.4,Reserved with Strangers
+Caucasian Shepherd Dog,"Fearless, Bold, Kind",0.0,58.42,76.2,44.905644630000005,77.1107029,10.0,12.0,0.4,Calm,0.4,Independent,0.2,Aloof/Wary
+Cavalier King Charles Spaniel,"Affectionate, Gentle, Graceful",18.0,30.48,33.02,5.8967008100000005,8.164662660000001,12.0,15.0,0.4,Calm,1.0,Eager to Please,0.8,Friendly
+Central Asian Shepherd Dog,"Independent, Courageous, Self-Confident",0.0,64.77,69.85,39.91612856,49.895160700000005,0.0,0.0,0.4,Calm,0.4,Independent,0.2,Aloof/Wary
+Cesky Terrier,"Clever, Adventurous, Family-Oriented",185.0,25.4,33.02,6.35029318,10.88621688,12.0,15.0,0.6,Regular Exercise,0.6,Agreeable,0.4,Reserved with Strangers
+Chesapeake Bay Retriever,"Affectionate, Bright, Sensitive",45.0,53.34,66.04,24.947580350000003,36.2873896,10.0,13.0,0.8,Energetic,0.6,Agreeable,0.4,Reserved with Strangers
+Chihuahua,"Charming, Graceful, Sassy",33.0,12.7,20.32,2.72155422,2.72155422,14.0,16.0,0.6,Regular Exercise,0.4,Independent,0.6,Alert/Responsive
+Chinese Crested,"Affectionate, Alert, Lively",79.0,27.94,33.02,3.62873896,5.4431084400000005,13.0,18.0,0.6,Regular Exercise,0.6,Agreeable,0.8,Friendly
+Chinese Shar-Pei,"Loyal, Independent, Calm",64.0,45.72,50.8,20.41165665,27.2155422,8.0,12.0,0.6,Regular Exercise,0.2,May be Stubborn,0.4,Reserved with Strangers
+Chinook,"Smart, Patient, Devoted",190.0,55.88,66.04,22.6796185,40.8233133,12.0,15.0,0.8,Energetic,1.0,Eager to Please,0.8,Friendly
+Chow Chow,"Dignified, Bright, Serious-Minded",75.0,43.18,50.8,20.41165665,31.751465900000003,8.0,12.0,0.6,Regular Exercise,0.2,May be Stubborn,0.4,Reserved with Strangers
+Cirneco dell’Etna,"Affectionate, Friendly, Independent",183.0,41.91,49.53,7.71107029,11.79340162,12.0,14.0,0.6,Regular Exercise,0.6,Agreeable,0.6,Alert/Responsive
+Clumber Spaniel,"Mellow, Amusing, Gentlemanly",143.0,43.18,50.8,24.947580350000003,38.55535145,10.0,12.0,0.6,Regular Exercise,0.6,Agreeable,0.4,Reserved with Strangers
+Cocker Spaniel,"Gentle, Smart, Happy",30.0,34.29,39.37,9.0718474,13.6077711,10.0,14.0,0.6,Regular Exercise,1.0,Eager to Please,1.0,Outgoing
+Collie,"Devoted, Graceful, Proud",38.0,55.88,66.04,22.6796185,34.01942775,12.0,14.0,0.6,Regular Exercise,0.8,Easy Training,0.8,Friendly
+Coton de Tulear,"Charming, Bright, Happy-Go-Lucky",81.0,22.86,27.94,3.62873896,6.80388555,15.0,19.0,0.6,Regular Exercise,0.8,Easy Training,1.0,Outgoing
+Croatian Sheepdog,"Loyal, Active, Alert and Intelligent",0.0,40.64,50.8,13.15417873,19.95806428,13.0,14.0,1.0,Needs Lots of Activity,1.0,Eager to Please,0.4,Reserved with Strangers
+Curly-Coated Retriever,"Confident, Proud, Wickedly Smart",162.0,58.42,68.58,27.2155422,43.09127515,10.0,12.0,0.8,Energetic,0.4,Independent,0.4,Reserved with Strangers
+Czechoslovakian Vlcak,"Loyal, Intelligent, Active",0.0,59.69,64.77,19.95806428,25.85476509,10.0,15.0,1.0,Needs Lots of Activity,0.2,May be Stubborn,0.2,Aloof/Wary
+Dachshund,"Friendly, Curious, Spunky",12.0,12.7,22.86,4.9895160700000005,14.51495584,12.0,16.0,0.6,Regular Exercise,0.6,Agreeable,0.6,Alert/Responsive
+Dalmatian,"Dignified, Smart, Outgoing",56.0,48.26,60.96,20.41165665,31.751465900000003,11.0,13.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+Dandie Dinmont Terrier,"Independent, Smart, Proud",176.0,20.32,27.94,8.164662660000001,10.88621688,12.0,15.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Danish-Swedish Farmdog,"Energetic, Trainable, Attentive",0.0,31.75,36.83,6.80388555,9.0718474,11.0,13.0,0.8,Energetic,0.0,Unknown,0.0,Unknown
+Deutscher Wachtelhund,"Friendly, Versatile, Determined",0.0,45.72,53.34,18.1436948,24.947580350000003,12.0,14.0,0.6,Regular Exercise,0.0,Unknown,0.0,Unknown
+Doberman Pinscher,"Loyal, Fearless, Alert",17.0,60.96,71.12,27.2155422,45.359237,10.0,12.0,1.0,Needs Lots of Activity,1.0,Eager to Please,0.6,Alert/Responsive
+Dogo Argentino,"Friendly, Cheerful, Humble",0.0,60.96,67.31,39.91612856,45.359237,9.0,15.0,1.0,Needs Lots of Activity,0.0,Unknown,0.0,Unknown
+Dogue de Bordeaux,"Affectionate, Loyal, Courageous",67.0,58.42,66.04,44.905644630000005,49.895160700000005,5.0,8.0,0.6,Regular Exercise,0.6,Agreeable,0.6,Alert/Responsive
+Drentsche Patrijshond,"Loyal, Intelligent, Sensitive",0.0,53.34,63.5,21.77243376,33.11224301,11.0,14.0,0.8,Energetic,0.6,Agreeable,0.4,Reserved with Strangers
+Drever,"Loyal, Even-Tempered, Determined",0.0,30.48,38.1,15.875732950000002,18.1436948,15.0,15.0,0.6,Regular Exercise,0.2,May be Stubborn,0.6,Alert/Responsive
+Dutch Shepherd,"Intelligent, Lively, Athletic",0.0,54.61,62.23,19.05087954,34.01942775,11.0,14.0,1.0,Needs Lots of Activity,0.6,Agreeable,0.6,Alert/Responsive
+English Cocker Spaniel,"Energetic, Merry, Responsive",52.0,38.1,43.18,11.79340162,15.42214058,12.0,14.0,0.6,Regular Exercise,1.0,Eager to Please,0.8,Friendly
+English Foxhound,"Affectionate, Gentle, Sociable",188.0,60.96,60.96,27.2155422,34.01942775,10.0,13.0,0.8,Energetic,0.6,Agreeable,0.8,Friendly
+English Setter,"Friendly, Mellow, Merry",94.0,58.42,68.58,20.41165665,36.2873896,12.0,12.0,0.8,Energetic,0.8,Easy Training,0.8,Friendly
+English Springer Spaniel,"Friendly, Playful, Obedient",27.0,48.26,50.8,18.1436948,22.6796185,12.0,14.0,0.6,Regular Exercise,1.0,Eager to Please,0.8,Friendly
+English Toy Spaniel,"Gentle, Playful, Intelligent",135.0,22.86,25.4,3.62873896,6.35029318,10.0,12.0,0.6,Regular Exercise,0.4,Independent,0.6,Alert/Responsive
+Entlebucher Mountain Dog,"Loyal, Smart, Enthusiastic",157.0,40.64,53.34,18.1436948,29.48350405,11.0,13.0,1.0,Needs Lots of Activity,0.4,Independent,0.4,Reserved with Strangers
+Estrela Mountain Dog,"Alert, Intelligent, Brave",0.0,62.23,73.66,34.926612490000004,59.874192840000006,10.0,14.0,0.4,Calm,0.0,Unknown,0.0,Unknown
+Eurasier,"Confident, Calm, Family-Oriented",0.0,48.26,60.96,18.1436948,31.751465900000003,12.0,16.0,0.6,Regular Exercise,0.6,Agreeable,0.4,Reserved with Strangers
+Field Spaniel,"Sweet, Fun-Loving, Sensitive",149.0,43.18,45.72,15.875732950000002,22.6796185,12.0,13.0,0.6,Regular Exercise,0.6,Agreeable,0.4,Reserved with Strangers
+Finnish Lapphund,"Friendly, Alert, Agile",161.0,40.64,53.34,14.968548210000002,24.04039561,12.0,15.0,0.6,Regular Exercise,1.0,Eager to Please,0.4,Reserved with Strangers
+Finnish Spitz,"Friendly, Good-Natured, Lively",184.0,39.37,50.8,9.0718474,14.968548210000002,13.0,15.0,1.0,Needs Lots of Activity,0.6,Agreeable,0.8,Friendly
+Flat-Coated Retriever,"Cheerful, Optimistic, Good-Humored",91.0,55.88,62.23,27.2155422,31.751465900000003,8.0,10.0,1.0,Needs Lots of Activity,1.0,Eager to Please,0.8,Friendly
+French Bulldog,"Adaptable, Playful, Smart",4.0,27.94,33.02,12.70058636,12.70058636,10.0,12.0,0.4,Calm,0.6,Agreeable,0.6,Alert/Responsive
+French Spaniel,"Gentle, Sociable, Intelligent",0.0,54.61,60.96,22.6796185,27.2155422,10.0,12.0,0.0,Unknown,0.0,Unknown,0.0,Unknown
+German Longhaired Pointer,"Versatile, Calm, Family-Oriented",0.0,55.88,71.12,24.947580350000003,36.2873896,12.0,14.0,0.8,Energetic,1.0,Eager to Please,0.8,Friendly
+German Pinscher,"Courageous, Intelligent, Vivacious",134.0,43.18,50.8,11.33980925,20.41165665,12.0,14.0,1.0,Needs Lots of Activity,0.6,Agreeable,0.6,Alert/Responsive
+German Shepherd Dog,"Confident, Courageous, Smart",2.0,55.88,66.04,22.6796185,40.8233133,7.0,10.0,0.6,Regular Exercise,1.0,Eager to Please,0.6,Alert/Responsive
+German Shorthaired Pointer,"Friendly, Smart, Willing to Please",9.0,53.34,63.5,20.41165665,31.751465900000003,10.0,12.0,1.0,Needs Lots of Activity,1.0,Eager to Please,0.8,Friendly
+German Spitz,"Devoted, Lively, Attentive",0.0,30.48,38.1,10.88621688,11.79340162,13.0,15.0,0.6,Regular Exercise,1.0,Eager to Please,0.4,Reserved with Strangers
+German Wirehaired Pointer,"Affectionate, Eager, Enthusiastic",63.0,55.88,66.04,22.6796185,31.751465900000003,14.0,16.0,1.0,Needs Lots of Activity,1.0,Eager to Please,0.4,Reserved with Strangers
+Giant Schnauzer,"Loyal, Alert, Trainable",78.0,59.69,69.85,24.947580350000003,38.55535145,12.0,15.0,1.0,Needs Lots of Activity,0.8,Easy Training,0.6,Alert/Responsive
+Glen of Imaal Terrier,"Gentle, Spirited, Bold",174.0,31.75,35.56,14.51495584,18.1436948,10.0,15.0,0.6,Regular Exercise,0.4,Independent,0.6,Alert/Responsive
+Golden Retriever,"Friendly, Intelligent, Devoted",3.0,54.61,60.96,24.947580350000003,34.01942775,10.0,12.0,1.0,Needs Lots of Activity,1.0,Eager to Please,0.8,Friendly
+Gordon Setter,"Affectionate, Confident, Bold",115.0,58.42,68.58,20.41165665,36.2873896,12.0,13.0,1.0,Needs Lots of Activity,0.4,Independent,0.4,Reserved with Strangers
+Grand Basset Griffon Vendéen,"Independent, Happy, Outgoing",177.0,39.37,45.72,18.1436948,20.41165665,13.0,15.0,1.0,Needs Lots of Activity,0.4,Independent,0.8,Friendly
+Great Dane,"Friendly, Patient, Dependable",16.0,71.12,81.28,49.895160700000005,79.37866475,7.0,10.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+Great Pyrenees,"Smart, Patient, Calm",66.0,63.5,81.28,38.55535145,45.359237,10.0,12.0,1.0,Needs Lots of Activity,0.4,Independent,0.4,Reserved with Strangers
+Greater Swiss Mountain Dog,"Faithful, Family-Oriented, Dependable",74.0,59.69,72.39,38.55535145,63.502931800000006,8.0,11.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+Greyhound,"Gentle, Independent, Noble",145.0,68.58,76.2,27.2155422,31.751465900000003,10.0,13.0,0.8,Energetic,0.4,Independent,0.8,Friendly
+Hamiltonstovare,"Agile, Versatile, Regal",0.0,48.26,60.96,18.1436948,34.01942775,14.0,17.0,0.8,Energetic,0.6,Agreeable,0.8,Friendly
+Hanoverian Scenthound,"Loyal, Independent, Calm",0.0,48.26,53.34,35.83379723,44.905644630000005,10.0,14.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Harrier,"Friendly, Outgoing, People-Oriented",189.0,48.26,53.34,20.41165665,27.2155422,12.0,15.0,1.0,Needs Lots of Activity,0.8,Easy Training,0.8,Friendly
+Havanese,"Intelligent, Outgoing, Funny",24.0,21.59,29.21,3.17514659,5.8967008100000005,14.0,16.0,0.6,Regular Exercise,0.8,Easy Training,1.0,Outgoing
+Hokkaido,"Dignified, Alert, Devoted",0.0,45.72,50.8,19.95806428,29.937096420000003,12.0,15.0,0.8,Energetic,0.0,Unknown,0.0,Unknown
+Hovawart,"Alert, Faithful, Intelligent",0.0,58.42,71.12,29.48350405,40.8233133,10.0,14.0,0.6,Regular Exercise,0.2,May be Stubborn,0.4,Reserved with Strangers
+Ibizan Hound,"Family-Oriented, Even-Tempered, Polite",152.0,57.15,69.85,20.41165665,22.6796185,11.0,14.0,1.0,Needs Lots of Activity,0.4,Independent,0.4,Reserved with Strangers
+Icelandic Sheepdog,"Friendly, Playful, Inquisitive",155.0,41.91,45.72,11.33980925,13.6077711,12.0,14.0,0.8,Energetic,1.0,Eager to Please,0.8,Friendly
+Irish Red and White Setter,"Courageous, Spirited, Determined",146.0,57.15,66.04,15.875732950000002,27.2155422,11.0,15.0,1.0,Needs Lots of Activity,0.8,Easy Training,0.8,Friendly
+Irish Setter,"Active, Outgoing, Sweet-Natured",77.0,63.5,68.58,27.2155422,31.751465900000003,12.0,15.0,1.0,Needs Lots of Activity,0.6,Agreeable,1.0,Outgoing
+Irish Terrier,"Bold, Dashing, Tenderhearted",116.0,45.72,45.72,11.33980925,12.24699399,13.0,15.0,0.6,Regular Exercise,0.6,Agreeable,0.6,Alert/Responsive
+Irish Water Spaniel,"Playful, Hardworking, Brave",159.0,53.34,60.96,20.41165665,30.84428116,12.0,13.0,1.0,Needs Lots of Activity,0.8,Easy Training,0.4,Reserved with Strangers
+Irish Wolfhound,"Courageous, Dignified, Calm",76.0,76.2,81.28,47.62719885,54.4310844,6.0,8.0,0.6,Regular Exercise,0.4,Independent,0.6,Alert/Responsive
+Italian Greyhound,"Playful, Alert, Sensitive",73.0,33.02,38.1,3.17514659,6.35029318,14.0,15.0,0.6,Regular Exercise,0.4,Independent,0.2,Aloof/Wary
+Jagdterrier,"Courageous, Intelligent, Hardworking",0.0,33.02,40.64,7.71107029,9.97903214,10.0,12.0,0.0,Unknown,0.0,Unknown,0.0,Unknown
+Japanese Chin,"Charming, Noble, Loving",104.0,20.32,27.94,3.17514659,4.9895160700000005,10.0,12.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Japanese Spitz,"Loyal, Playful, Smart",0.0,30.48,38.1,4.535923700000001,11.33980925,12.0,14.0,0.6,Regular Exercise,0.8,Easy Training,0.8,Friendly
+Jindo,"Alert, Intelligent, Bold",0.0,45.72,55.88,13.6077711,22.6796185,14.0,14.0,0.8,Energetic,0.4,Independent,0.4,Reserved with Strangers
+Kai Ken,"Loyal, Agile, Keen",0.0,39.37,49.53,9.0718474,18.1436948,12.0,15.0,0.8,Energetic,0.4,Independent,0.4,Reserved with Strangers
+Karelian Bear Dog,"Loyal, Independent, Courageous",0.0,48.26,59.69,19.95806428,22.22602613,11.0,13.0,0.4,Calm,0.0,Unknown,0.0,Unknown
+Keeshond,"Friendly, Lively, Outgoing",95.0,43.18,45.72,15.875732950000002,20.41165665,12.0,15.0,0.6,Regular Exercise,0.8,Easy Training,0.8,Friendly
+Kerry Blue Terrier,"Smart, Alert, People-Oriented",129.0,44.45,49.53,14.968548210000002,18.1436948,12.0,15.0,0.6,Regular Exercise,0.2,May be Stubborn,0.6,Alert/Responsive
+Kishu Ken,"Faithful, Noble, Docile",0.0,43.18,55.88,13.6077711,27.2155422,11.0,13.0,0.8,Energetic,0.4,Independent,0.4,Reserved with Strangers
+Komondor,"Loyal, Dignified, Brave",173.0,64.77,69.85,36.2873896,45.359237,10.0,12.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Kromfohrlander,"Intelligent, Active, Sensitive",0.0,38.1,45.72,9.0718474,15.875732950000002,13.0,15.0,0.6,Regular Exercise,0.6,Agreeable,0.4,Reserved with Strangers
+Kuvasz,"Loyal, Fearless, Sweet",163.0,66.04,76.2,31.751465900000003,52.16312255,10.0,12.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Labrador Retriever,"Friendly, Active, Outgoing",1.0,54.61,62.23,24.947580350000003,36.2873896,10.0,12.0,1.0,Needs Lots of Activity,1.0,Eager to Please,1.0,Outgoing
+Lagotto Romagnolo,"Affectionate, Keen, Undemanding",99.0,40.64,48.26,10.88621688,15.875732950000002,15.0,17.0,0.6,Regular Exercise,1.0,Eager to Please,0.6,Alert/Responsive
+Lakeland Terrier,"Friendly, Confident, Bold",147.0,35.56,38.1,7.71107029,7.71107029,12.0,15.0,0.6,Regular Exercise,0.6,Agreeable,0.6,Alert/Responsive
+Lancashire Heeler,"Affectionate, Versatile, Intelligent",0.0,25.4,30.48,4.082331330000001,7.71107029,12.0,15.0,0.8,Energetic,0.8,Easy Training,0.8,Friendly
+Lapponian Herder,"Friendly, Energetic, Intelligent",0.0,45.72,50.8,31.751465900000003,31.751465900000003,10.0,14.0,0.6,Regular Exercise,1.0,Eager to Please,0.4,Reserved with Strangers
+Leonberger,"Friendly, Gentle, Playful",93.0,64.77,80.01,40.8233133,77.1107029,9.0,9.0,0.6,Regular Exercise,1.0,Eager to Please,0.8,Friendly
+Lhasa Apso,"Confident, Smart, Comical",71.0,25.4,27.94,5.4431084400000005,8.164662660000001,12.0,15.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Löwchen,"Affectionate, Outgoing, Positive",168.0,27.94,33.02,4.535923700000001,6.80388555,15.0,15.0,0.6,Regular Exercise,0.6,Agreeable,1.0,Outgoing
+Maltese,"Gentle, Playful, Charming",37.0,17.78,22.86,3.17514659,3.17514659,12.0,15.0,0.6,Regular Exercise,0.6,Agreeable,1.0,Outgoing
+Manchester Terrier (Standard),"Spirited, Bright, Keenly Observant",133.0,38.1,40.64,5.4431084400000005,9.97903214,15.0,17.0,0.6,Regular Exercise,0.8,Easy Training,0.6,Alert/Responsive
+Manchester Terrier (Toy),"Agile, Spirited, Intelligent",133.0,25.4,30.48,5.4431084400000005,5.4431084400000005,15.0,17.0,0.6,Regular Exercise,0.8,Easy Training,0.6,Alert/Responsive
+Mastiff,"Courageous, Dignified, Good-Natured",29.0,69.85,76.2,54.4310844,104.3262451,6.0,10.0,0.6,Regular Exercise,0.6,Agreeable,0.6,Alert/Responsive
+Miniature American Shepherd,"Good-Natured, Intelligent, Devoted",34.0,33.02,45.72,9.0718474,18.1436948,12.0,13.0,0.8,Energetic,1.0,Eager to Please,0.8,Friendly
+Miniature Bull Terrier,"Upbeat, Mischievous, Comical",110.0,25.4,35.56,8.164662660000001,12.70058636,11.0,13.0,0.8,Energetic,0.4,Independent,0.6,Alert/Responsive
+Miniature Pinscher,"Fearless, Fun-Loving, Proud",70.0,25.4,31.75,3.62873896,4.535923700000001,12.0,16.0,0.6,Regular Exercise,0.4,Independent,0.6,Alert/Responsive
+Miniature Schnauzer,"Friendly, Smart, Obedient",19.0,30.48,35.56,4.9895160700000005,9.0718474,12.0,15.0,0.6,Regular Exercise,1.0,Eager to Please,0.6,Alert/Responsive
+Mountain Cur,"Intelligent, Strong-Willed, Reserved with Strangers",0.0,40.64,66.04,13.6077711,27.2155422,10.0,13.0,1.0,Needs Lots of Activity,0.2,May be Stubborn,0.4,Reserved with Strangers
+Mudi,"Loyal, Intelligent, Active",0.0,38.1,46.99,8.164662660000001,13.15417873,12.0,14.0,1.0,Needs Lots of Activity,1.0,Eager to Please,0.4,Reserved with Strangers
+Neapolitan Mastiff,"Loyal, Dignified, Watchful",102.0,60.96,78.74,49.895160700000005,68.0388555,7.0,9.0,0.6,Regular Exercise,0.2,May be Stubborn,0.2,Aloof/Wary
+Nederlandse Kooikerhondje,"Friendly, Alert, Quick",150.0,35.56,43.18,9.0718474,13.6077711,12.0,15.0,0.6,Regular Exercise,1.0,Eager to Please,0.4,Reserved with Strangers
+Newfoundland,"Sweet, Patient, Devoted",40.0,66.04,71.12,45.359237,68.0388555,9.0,10.0,0.6,Regular Exercise,0.8,Easy Training,0.8,Friendly
+Norfolk Terrier,"Fearless, Alert, Fun-Loving",126.0,22.86,25.4,4.9895160700000005,5.4431084400000005,12.0,16.0,0.6,Regular Exercise,0.6,Agreeable,0.8,Friendly
+Norrbottenspets,"Fearless, Agile, Attentive",0.0,41.91,45.72,9.0718474,13.6077711,14.0,17.0,0.8,Energetic,0.0,Unknown,0.0,Unknown
+Norwegian Buhund,"Confident, Smart, Perceptive",165.0,40.64,46.99,11.79340162,18.1436948,12.0,15.0,0.8,Energetic,0.8,Easy Training,0.8,Friendly
+Norwegian Elkhound,"Friendly, Confident, Dependable",97.0,49.53,52.07,21.77243376,24.947580350000003,12.0,15.0,0.6,Regular Exercise,0.6,Agreeable,0.8,Friendly
+Norwegian Lundehund,"Loyal, Energetic, Alert",191.0,30.48,38.1,9.0718474,13.6077711,12.0,15.0,0.8,Energetic,0.6,Agreeable,0.4,Reserved with Strangers
+Norwich Terrier,"Affectionate, Alert, Curious",108.0,25.4,25.4,5.4431084400000005,5.4431084400000005,12.0,15.0,0.8,Energetic,0.6,Agreeable,0.8,Friendly
+Nova Scotia Duck Tolling Retriever,"Affectionate, Intelligent, Outgoing",83.0,43.18,53.34,15.875732950000002,22.6796185,12.0,14.0,1.0,Needs Lots of Activity,0.8,Easy Training,0.8,Friendly
+Old English Sheepdog,"Adaptable, Gentle, Smart",72.0,53.34,55.88,27.2155422,45.359237,10.0,12.0,0.6,Regular Exercise,0.4,Independent,0.6,Alert/Responsive
+Otterhound,"Even-Tempered, Amiable, Boisterous",182.0,60.96,68.58,36.2873896,52.16312255,10.0,13.0,0.6,Regular Exercise,0.2,May be Stubborn,0.6,Alert/Responsive
+Papillon,"Friendly, Alert, Happy",54.0,20.32,27.94,2.2679618500000003,4.535923700000001,14.0,16.0,0.6,Regular Exercise,1.0,Eager to Please,1.0,Outgoing
+Parson Russell Terrier,"Friendly, Clever, Athletic",117.0,33.02,35.56,5.8967008100000005,7.71107029,13.0,15.0,1.0,Needs Lots of Activity,0.6,Agreeable,0.8,Friendly
+Pekingese,"Affectionate, Loyal, Regal in Manner",92.0,15.24,22.86,6.35029318,6.35029318,12.0,14.0,0.4,Calm,0.2,May be Stubborn,0.4,Reserved with Strangers
+Pembroke Welsh Corgi,"Affectionate, Smart, Alert",13.0,25.4,30.48,12.70058636,13.6077711,12.0,13.0,0.8,Energetic,0.6,Agreeable,1.0,Outgoing
+Perro de Presa Canario,"Confident, Calm, Strong-Willed",0.0,55.88,66.04,38.10175908,49.895160700000005,9.0,11.0,0.4,Calm,0.0,Unknown,0.0,Unknown
+Peruvian Inca Orchid,"Affectionate, Loyal, Noble",0.0,24.765,65.405,3.855535145,24.947580350000003,12.0,14.0,0.8,Energetic,0.6,Agreeable,0.4,Reserved with Strangers
+Petit Basset Griffon Vendéen,"Alert, Happy, Vivacious",156.0,33.02,38.1,11.33980925,18.1436948,12.0,14.0,0.8,Energetic,0.4,Independent,0.8,Friendly
+Pharaoh Hound,"Friendly, Smart, Noble",172.0,53.34,63.5,20.41165665,24.947580350000003,12.0,14.0,0.8,Energetic,0.4,Independent,0.4,Reserved with Strangers
+Plott Hound,"Loyal, Alert, Intelligent",171.0,50.8,63.5,18.1436948,27.2155422,12.0,14.0,0.8,Energetic,0.4,Independent,0.6,Alert/Responsive
+Pointer,"Loyal, Hardworking, Even-Tempered",114.0,58.42,71.12,20.41165665,34.01942775,12.0,17.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+Polish Lowland Sheepdog,"Confident, Clever, Lively",170.0,43.18,50.8,13.6077711,22.6796185,12.0,14.0,0.8,Energetic,0.2,May be Stubborn,0.2,Aloof/Wary
+Pomeranian,"Inquisitive, Bold, Lively",23.0,15.24,17.78,1.36077711,3.17514659,12.0,16.0,0.6,Regular Exercise,0.6,Agreeable,0.6,Alert/Responsive
+Poodle (Miniature),"Active, Proud, Very Smart",7.0,25.4,38.1,4.535923700000001,6.80388555,10.0,18.0,0.0,Unknown,0.0,Unknown,0.0,Unknown
+Poodle (Standard),"Active, Proud, Very Smart",7.0,38.1,38.1,18.1436948,31.751465900000003,10.0,18.0,0.6,Regular Exercise,1.0,Eager to Please,0.8,Friendly
+Poodle (Toy),"Agile, Intelligent, Self-Confident",7.0,25.4,25.4,1.81436948,2.72155422,10.0,18.0,0.6,Regular Exercise,1.0,Eager to Please,0.8,Friendly
+Porcelaine,"Independent, Energetic, Powerful",0.0,55.88,58.42,24.947580350000003,28.12272694,12.0,13.0,0.8,Energetic,0.0,Unknown,0.6,Alert/Responsive
+Portuguese Podengo,"Independent, Alert, Intelligent",0.0,40.64,71.12,15.875732950000002,29.937096420000003,10.0,12.0,0.8,Energetic,0.6,Agreeable,0.4,Reserved with Strangers
+Portuguese Podengo Pequeno,"Playful, Charming, Lively",154.0,20.32,30.48,4.082331330000001,5.8967008100000005,12.0,15.0,0.8,Energetic,0.6,Agreeable,0.8,Friendly
+Portuguese Pointer,"Affectionate, Smart, Energetic",0.0,52.07,55.88,15.875732950000002,26.76194983,14.0,14.0,0.8,Energetic,1.0,Eager to Please,0.8,Friendly
+Portuguese Sheepdog,"Intelligent, Devoted, Lively",0.0,41.91,54.61,17.009713875,26.76194983,12.0,13.0,0.8,Energetic,0.0,Unknown,0.0,Unknown
+Portuguese Water Dog,"Affectionate, Adventurous, Athletic",50.0,43.18,58.42,15.875732950000002,27.2155422,11.0,13.0,0.8,Energetic,0.8,Easy Training,0.6,Alert/Responsive
+Pudelpointer,"Friendly, Smart, Willing to Please",0.0,55.88,66.04,20.41165665,31.751465900000003,14.0,14.0,0.6,Regular Exercise,0.0,Unknown,0.0,Unknown
+Pug,"Charming, Mischievous, Loving",28.0,25.4,33.02,6.35029318,8.164662660000001,13.0,15.0,0.6,Regular Exercise,0.6,Agreeable,0.8,Friendly
+Puli,"Loyal, Smart, Home-Loving",160.0,40.64,43.18,11.33980925,15.875732950000002,10.0,15.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Pumi,"Energetic, Lively, Ready to Work",151.0,38.1,46.99,9.97903214,13.15417873,12.0,13.0,0.8,Energetic,0.8,Easy Training,0.6,Alert/Responsive
+Pyrenean Mastiff,"Gentle, Brave, Noble",0.0,63.5,78.74,54.4310844,108.8621688,10.0,13.0,0.4,Calm,0.0,Unknown,0.0,Unknown
+Pyrenean Shepherd,"Affectionate, Active, Enthusiastic",181.0,38.1,53.34,6.80388555,13.6077711,0.0,0.0,0.8,Energetic,0.6,Agreeable,0.4,Reserved with Strangers
+Rafeiro do Alentejo,"Confident, Calm, Powerful",0.0,63.5,73.66,34.926612490000004,59.874192840000006,12.0,14.0,0.4,Calm,0.0,Unknown,0.0,Unknown
+Rat Terrier,"Friendly, Inquisitive, Lovable",86.0,25.4,45.72,4.535923700000001,11.33980925,12.0,18.0,0.6,Regular Exercise,0.8,Easy Training,0.8,Friendly
+Redbone Coonhound,"Even-Tempered, Amiable, Eager to Please",142.0,53.34,68.58,20.41165665,31.751465900000003,12.0,15.0,0.6,Regular Exercise,0.8,Easy Training,0.8,Friendly
+Rhodesian Ridgeback,"Affectionate, Dignified, Even-Tempered",41.0,60.96,68.58,31.751465900000003,38.55535145,10.0,10.0,0.6,Regular Exercise,0.4,Independent,0.6,Alert/Responsive
+Romanian Mioritic Shepherd Dog,"Loyal, Independent, Confident Guardian",0.0,57.15,73.66,45.359237,58.9670081,12.0,14.0,0.6,Regular Exercise,0.4,Independent,0.2,Aloof/Wary
+Rottweiler,"Loyal, Loving, Confident Guardian",8.0,55.88,68.58,36.2873896,61.23496995,9.0,10.0,0.6,Regular Exercise,0.6,Agreeable,0.4,Reserved with Strangers
+Russell Terrier,"Alert, Inquisitive, Lively",82.0,25.4,30.48,4.082331330000001,6.80388555,12.0,14.0,1.0,Needs Lots of Activity,0.6,Agreeable,0.8,Friendly
+Russian Toy,"Loyal, Smart, Charming",0.0,20.32,27.94,2.948350405,2.948350405,12.0,14.0,0.6,Regular Exercise,0.6,Agreeable,0.8,Friendly
+Russian Tsvetnaya Bolonka,"Playful, Charming, Inquisitive",0.0,22.86,25.4,2.0411656650000003,4.9895160700000005,12.0,16.0,0.6,Regular Exercise,0.6,Agreeable,0.8,Friendly
+Saint Bernard,"Playful, Charming, Inquisitive",48.0,66.04,76.2,54.4310844,81.6466266,8.0,10.0,0.6,Regular Exercise,0.6,Agreeable,0.8,Friendly
+Saluki,"Gentle, Dignified, Independent-Minded",120.0,58.42,71.12,18.1436948,29.48350405,10.0,17.0,0.8,Energetic,0.4,Independent,0.4,Reserved with Strangers
+Samoyed,"Adaptable, Friendly, Gentle",59.0,48.26,59.69,15.875732950000002,29.48350405,12.0,14.0,0.8,Energetic,0.4,Independent,0.8,Friendly
+Schapendoes,"Friendly, Watchful, Lively",0.0,40.64,50.8,11.79340162,24.947580350000003,12.0,15.0,0.6,Regular Exercise,0.8,Easy Training,0.6,Alert/Responsive
+Schipperke,"Confident, Alert, Curious",105.0,25.4,33.02,4.535923700000001,7.25747792,12.0,14.0,0.8,Energetic,0.4,Independent,0.6,Alert/Responsive
+Scottish Deerhound,"Gentle, Dignified, Polite",158.0,71.12,81.28,34.01942775,49.895160700000005,8.0,11.0,0.6,Regular Exercise,0.4,Independent,0.6,Alert/Responsive
+Scottish Terrier,"Confident, Independent, Spirited",57.0,25.4,25.4,8.164662660000001,9.97903214,12.0,12.0,0.6,Regular Exercise,0.4,Independent,0.6,Alert/Responsive
+Sealyham Terrier,"Alert, Outgoing, Sense Of Humor",164.0,26.67,26.67,10.43262451,10.88621688,12.0,14.0,0.6,Regular Exercise,0.4,Independent,0.6,Alert/Responsive
+Segugio Italiano,"Friendly, Intelligent, Eager to Please",0.0,48.26,58.42,18.1436948,27.2155422,11.0,13.0,0.0,Unknown,1.0,Eager to Please,0.0,Unknown
+Shetland Sheepdog,"Playful, Energetic, Bright",25.0,33.02,40.64,6.80388555,11.33980925,12.0,14.0,0.6,Regular Exercise,1.0,Eager to Please,0.4,Reserved with Strangers
+Shiba Inu,"Alert, Active, Attentive",44.0,34.29,41.91,7.71107029,10.43262451,13.0,16.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Shih Tzu,"Affectionate, Playful, Outgoing",20.0,22.86,26.67,4.082331330000001,7.25747792,10.0,18.0,0.6,Regular Exercise,0.6,Agreeable,0.8,Friendly
+Shikoku,"Energetic, Alert, Enthusiastic",0.0,43.18,55.88,15.875732950000002,24.947580350000003,10.0,12.0,0.6,Regular Exercise,0.0,Unknown,0.0,Unknown
+Siberian Husky,"Loyal, Mischievous, Outgoing",14.0,50.8,59.69,15.875732950000002,27.2155422,12.0,14.0,0.8,Energetic,0.4,Independent,0.8,Friendly
+Silky Terrier,"Friendly, Quick, Keenly Alert",112.0,22.86,25.4,4.535923700000001,4.535923700000001,13.0,15.0,0.6,Regular Exercise,0.6,Agreeable,0.6,Alert/Responsive
+Skye Terrier,"Courageous, Good-Tempered, Canny",178.0,24.13,25.4,15.875732950000002,20.41165665,12.0,14.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Sloughi,"Reserved, Graceful, Noble",192.0,60.96,73.66,15.875732950000002,22.6796185,10.0,15.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Slovakian Wirehaired Pointer,Unknown,0.0,57.15,67.31,22.6796185,29.48350405,12.0,15.0,0.8,Energetic,0.4,Independent,1.0,Outgoing
+Slovensky Cuvac,"Courageous, Alert, Faithful",0.0,58.42,69.85,30.84428116,43.99845989,11.0,13.0,0.4,Calm,0.0,Unknown,0.0,Unknown
+Slovensky Kopov,"Courageous, Alert, Determined",0.0,40.64,50.8,14.968548210000002,19.95806428,12.0,13.0,0.6,Regular Exercise,0.0,Unknown,0.0,Unknown
+Small Munsterlander Pointer,"Intelligent, Devoted, Self-Confident",0.0,52.07,53.34,18.1436948,27.2155422,12.0,14.0,1.0,Needs Lots of Activity,0.6,Agreeable,0.8,Friendly
+Smooth Fox Terrier,"Friendly, Independent, Amusing",123.0,38.1,38.1,6.80388555,8.164662660000001,12.0,15.0,0.8,Energetic,0.6,Agreeable,0.8,Friendly
+Soft Coated Wheaten Terrier,"Friendly, Happy, Deeply Devoted",53.0,43.18,48.26,13.6077711,18.1436948,12.0,14.0,0.8,Energetic,0.4,Independent,0.6,Alert/Responsive
+Spanish Mastiff,"Affectionate, Intelligent, Kind",0.0,71.12,88.9,63.502931800000006,90.718474,10.0,12.0,0.4,Calm,0.0,Unknown,0.0,Unknown
+Spanish Water Dog,Playful but also Work-Oriented. Very Active and Upbeat.,153.0,40.005,50.165,14.06136347,22.22602613,12.0,14.0,0.8,Energetic,1.0,Eager to Please,0.4,Reserved with Strangers
+Spinone Italiano,"Sociable, Patient, Docile",109.0,55.88,68.58,0.0,0.0,10.0,12.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+Stabyhoun,"Intelligent, Responsive, Loving",0.0,48.26,53.34,18.1436948,27.2155422,13.0,15.0,0.8,Energetic,0.8,Easy Training,0.6,Alert/Responsive
+Staffordshire Bull Terrier,"Clever, Brave, Tenacious",80.0,35.56,40.64,10.88621688,17.23651006,12.0,14.0,0.8,Energetic,0.2,May be Stubborn,0.8,Friendly
+Standard Schnauzer,"Fearless, Smart, Spirited",89.0,44.45,49.53,13.6077711,22.6796185,13.0,16.0,0.6,Regular Exercise,0.4,Independent,0.8,Friendly
+Sussex Spaniel,"Friendly, Merry, Even-Tempered",180.0,33.02,38.1,15.875732950000002,20.41165665,13.0,15.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Swedish Lapphund,"Playful, Intelligent, Lively",0.0,40.64,50.8,13.6077711,20.41165665,12.0,14.0,0.6,Regular Exercise,0.2,May be Stubborn,0.6,Alert/Responsive
+Swedish Vallhund,"Friendly, Energetic, Watchful",169.0,29.21,34.925,9.0718474,15.875732950000002,12.0,15.0,1.0,Needs Lots of Activity,1.0,Eager to Please,0.8,Friendly
+Taiwan Dog,"Loyal, Versatile, Intelligent",0.0,43.18,50.8,11.79340162,18.1436948,9.0,13.0,1.0,Needs Lots of Activity,0.8,Easy Training,0.4,Reserved with Strangers
+Teddy Roosevelt Terrier,"Playful, Versatile, Intelligent",0.0,20.32,38.1,3.62873896,11.33980925,14.0,16.0,0.8,Energetic,1.0,Eager to Please,0.8,Friendly
+Thai Ridgeback,"Loyal, Independent, Agile",0.0,50.8,60.96,15.875732950000002,34.01942775,12.0,13.0,0.8,Energetic,0.4,Independent,0.4,Reserved with Strangers
+Tibetan Mastiff,"Independent, Reserved, Intelligent",131.0,60.96,66.04,31.751465900000003,68.0388555,10.0,12.0,0.6,Regular Exercise,0.4,Independent,0.6,Alert/Responsive
+Tibetan Spaniel,"Playful, Bright, Self-Confident",119.0,25.4,25.4,4.082331330000001,6.80388555,12.0,15.0,0.4,Calm,0.6,Agreeable,0.6,Alert/Responsive
+Tibetan Terrier,"Affectionate, Loyal, Sensitive",96.0,35.56,43.18,8.164662660000001,13.6077711,15.0,16.0,0.8,Energetic,0.4,Independent,0.4,Reserved with Strangers
+Tornjak,"Friendly, Courageous, Intelligent",0.0,58.42,71.12,28.12272694,49.895160700000005,12.0,14.0,0.0,Unknown,0.8,Easy Training,0.6,Alert/Responsive
+Tosa,"Fearless, Patient, Vigilant",0.0,54.61,59.69,45.359237,90.718474,10.0,12.0,0.4,Calm,0.6,Agreeable,0.4,Reserved with Strangers
+Toy Fox Terrier,"Friendly, Alert, Intelligent",111.0,21.59,29.21,1.587573295,3.17514659,13.0,15.0,0.8,Energetic,1.0,Eager to Please,0.8,Friendly
+Transylvanian Hound,"Courageous, Good-Natured, Determined",0.0,55.88,66.04,24.947580350000003,24.947580350000003,10.0,14.0,1.0,Needs Lots of Activity,0.2,May be Stubborn,0.0,Unknown
+Treeing Tennessee Brindle,"Friendly, Alert, Intelligent",0.0,40.64,60.96,13.6077711,22.6796185,10.0,12.0,0.6,Regular Exercise,0.0,Unknown,0.0,Unknown
+Treeing Walker Coonhound,"Smart, Brave, Courteous",137.0,50.8,68.58,22.6796185,31.751465900000003,12.0,13.0,0.6,Regular Exercise,0.4,Independent,0.8,Friendly
+Vizsla,"Affectionate, Gentle, Energetic",31.0,53.34,60.96,19.95806428,27.2155422,12.0,14.0,0.8,Energetic,1.0,Eager to Please,0.8,Friendly
+Weimaraner,"Friendly, Fearless, Obedient",36.0,58.42,68.58,24.947580350000003,40.8233133,10.0,13.0,1.0,Needs Lots of Activity,1.0,Eager to Please,0.8,Friendly
+Welsh Springer Spaniel,"Happy, Reserved, Upbeat",128.0,43.18,48.26,15.875732950000002,24.947580350000003,12.0,15.0,0.8,Energetic,0.8,Easy Training,0.8,Friendly
+Welsh Terrier,"Friendly, Spirited, Intelligent",107.0,38.1,38.1,9.0718474,9.0718474,12.0,15.0,0.8,Energetic,0.6,Agreeable,1.0,Outgoing
+West Highland White Terrier,"Loyal, Happy, Entertaining",42.0,25.4,27.94,6.80388555,9.0718474,13.0,15.0,0.6,Regular Exercise,0.6,Agreeable,0.8,Friendly
+Wetterhoun,"Loyal, Good-Natured, Intelligent",0.0,12.7,58.42,22.6796185,34.01942775,13.0,13.0,0.6,Regular Exercise,0.2,May be Stubborn,0.4,Reserved with Strangers
+Whippet,"Affectionate, Playful, Calm",61.0,45.72,55.88,11.33980925,18.1436948,12.0,15.0,0.6,Regular Exercise,0.4,Independent,0.4,Reserved with Strangers
+Wire Fox Terrier,"Confident, Alert, Gregarious",101.0,38.1,38.1,6.80388555,8.164662660000001,12.0,15.0,0.6,Regular Exercise,0.6,Agreeable,0.6,Alert/Responsive
+Wirehaired Pointing Griffon,"Friendly, Devoted, Trainable",65.0,50.8,60.96,15.875732950000002,31.751465900000003,12.0,15.0,1.0,Needs Lots of Activity,0.6,Agreeable,0.6,Alert/Responsive
+Wirehaired Vizsla,"Gentle, Loyal, Trainable",167.0,54.61,63.5,20.41165665,29.48350405,12.0,14.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+Working Kelpie,"Alert, Eager, Intelligent",0.0,48.26,63.5,12.70058636,27.2155422,12.0,15.0,0.8,Energetic,0.4,Independent,0.6,Alert/Responsive
+Xoloitzcuintli,"Loyal, Alert, Calm",140.0,25.4,58.42,4.535923700000001,24.947580350000003,13.0,18.0,0.8,Energetic,0.6,Agreeable,0.6,Alert/Responsive
+Yakutian Laika,"Affectionate, Intelligent, Active",0.0,53.34,58.42,18.1436948,24.947580350000003,10.0,12.0,0.8,Energetic,0.2,May be Stubborn,0.4,Reserved with Strangers
+Yorkshire Terrier,"Affectionate, Sprightly, Tomboyish",10.0,17.78,20.32,3.17514659,3.17514659,11.0,15.0,0.6,Regular Exercise,0.2,May be Stubborn,0.8,Friendly

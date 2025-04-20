@@ -29,7 +29,8 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 - converted all coluimn names to lowercase with no spaces or special characters to better work with SQL
 - removed duplicate rows if they were identical
 - removed leading and trailing whitespace characters from column names
-- removed unused columns from the American Kennel Club dataset
+- removed unused columns
+- validated that data conforms to specific formats (date, ingteger, float, etc.)
 - checked for outliers
 - replaced NaN values with None, Unknown, or 0 values depending on column needs
 

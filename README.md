@@ -2,7 +2,7 @@
 
 ## Data Gathering & Warehousing
 
-## DSSA-5102 - Spring 2025
+DSSA-5102 - Spring 2025
 
 *Data Science and Strategic Analytics Graduate Program* - [Stockton University](https://stockton.edu)
 
@@ -14,7 +14,7 @@
 
 ### Mission
 
-Doggy Delights exists to enhance the bond between pets and their owners by delivering innovative, unforgettable treat experiences for all.
+Doggy Delights is a fictitious company that exists to enhance the bond between pets and their owners by delivering innovative, unforgettable treat experiences for all.
 
 ### Data Sources
 
@@ -76,7 +76,7 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 | Column Name            | Definitions                    | Example |
 | ---------------------- | ------------------------------ | ------- |
 | id                     | a unique integer for each pet outcome | 147 |
-| outcome_type           | Adoption, Return to Owner, Transfer, Rto-Adopt, Euthanasia, Died, Missing, Disposal, Stolen, Lost, Relocate | Adoption |                               | Adoption |
+| outcome_type           | Adoption, Return to Owner, Transfer, Rto-Adopt, Euthanasia, Died, Missing, Disposal, Stolen, Lost, Relocate | Adoption | Adoption |
 | outcome_subtype        | additional notes regarding the outcome | Out State |
 | outcome_datetime       | date and time of the outcome     | 2019-05-08 06:20:00 PM |
 | pet_id                 | foreign key connecting the pet table | 26 |
@@ -87,8 +87,8 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 | ---------------------- | ------------------------------ | ------- |
 | id                     | a unique integer for each region | 19 |
 | state                  | state name                       | New Jersey |
-| pet_ownership_rate     | rate of pet ownershit in the region | |
-| average_income         | average income of the region     | |
+| pet_ownership_rate     | rate of pet ownershit in the region | 29.1 |
+| average_income         | average income of the region     | 89296 |
 
 #### product_catalog
 
@@ -108,8 +108,8 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 | id                     | a unique integer for consumption | 24 |
 | quantity               | number of treats consumed    | 7 |
 | frequency              | how often treats are consumed | |
-| dog_breed_id               | foreign key connecting the dog_breed table | 6 |
-| product_catalog_id             | foreign key connecting the product_catalog table | 4 |
+| dog_breed_id           | foreign key connecting the dog_breed table | 6 |
+| product_catalog_id     | foreign key connecting the product_catalog table | 4 |
 
 
 #### survey_response
@@ -121,8 +121,8 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 | interest_level         | how interested the dog was with the treat given     | |
 | respondant_name        | The name of the pet owner    | Cesar Millan |
 | submission_date        | date of survey submission        | 2025-04-19 |
-| dog_breed_id               | foreign key connecting the dog_breed table | 6 |
-| product_catalog_id             | foreign key connecting the product_catalog table | 4 |
+| dog_breed_id           | foreign key connecting the dog_breed table | 6 |
+| product_catalog_id     | foreign key connecting the product_catalog table | 4 |
 
 ### Regulations to Using this Data
 

@@ -20,6 +20,7 @@ Doggy Delights exists to enhance the bond between pets and their owners by deliv
 
 - The dog breed data set was extracted from the [American Kennel Club website](https://www.akc.org/) by [tmfilho](https://github.com/tmfilho/akcdata). All rights to the information contained here belong to the AKC.
 - Add other sources here
+- product_catalog, treat_consumption, and survey_response data was generated using the [Faker Python package](https://pypi.org/project/Faker/) and custom scripts.
 
 ### Data Cleaning and Transformation
 
@@ -76,7 +77,7 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 | ---------------------- | ------------------------------ | ------- |
 | id                     | a unique integer for each pet outcome | 147 |
 | outcome_type           | Adoption, Return to Owner, Transfer, Rto-Adopt, Euthanasia, Died, Missing, Disposal, Stolen, Lost, Relocate | Adoption |                               | Adoption |
-| outcome_subtype        |                                  | Out State |
+| outcome_subtype        | additional notes regarding the outcome | Out State |
 | outcome_datetime       | date and time of the outcome     | 2019-05-08 06:20:00 PM |
 | pet_id                 | foreign key connecting the pet table | 26 |
 
@@ -113,15 +114,15 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 
 #### survey_response
 
-| Column Name            | Definitions                      |
-| ---------------------- | -------------------------------- |
-| id                     | a unique integer for each survey response |
-| concern                | option of type of cncern the dog owner may have          |
-| interest_level         | how interested the dog was with the treat given     |
-| respondant_name        | The name of the pet owner    |
-| submission_date        | date of survey submission        |
-| dog_breed_id               | foreign key connecting the dog_breed table |
-| product_catalog_id             | foreign key connecting the product_catalog table |
+| Column Name            | Definitions                      | Example |
+| ---------------------- | -------------------------------- | ------- |
+| id                     | a unique integer for each survey response | 235 |
+| concern                | option of type of cncern the dog owner may have | |
+| interest_level         | how interested the dog was with the treat given     | |
+| respondant_name        | The name of the pet owner    | Cesar Millan |
+| submission_date        | date of survey submission        | 2025-04-19 |
+| dog_breed_id               | foreign key connecting the dog_breed table | 6 |
+| product_catalog_id             | foreign key connecting the product_catalog table | 4 |
 
 ### Regulations to Using this Data
 

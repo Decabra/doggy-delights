@@ -2,7 +2,7 @@
 
 ## Data Gathering & Warehousing
 
-## DSSA-5102 - Spring 2025
+DSSA-5102 - Spring 2025
 
 *Data Science and Strategic Analytics Graduate Program* - [Stockton University](https://stockton.edu)
 
@@ -14,12 +14,13 @@
 
 ### Mission
 
-Doggy Delights exists to enhance the bond between pets and their owners by delivering innovative, unforgettable treat experiences for all.
+Doggy Delights is a fictitious company that exists to enhance the bond between pets and their owners by delivering innovative, unforgettable treat experiences for all.
 
 ### Data Sources
 
 - The dog breed data set was extracted from the [American Kennel Club website](https://www.akc.org/) by [tmfilho](https://github.com/tmfilho/akcdata). All rights to the information contained here belong to the AKC.
-- Add other sources here
+- The pet and pet outcomes dataset was extracted from them [Austin Animal Center Outcomes](https://catalog.data.gov/dataset/austin-animal-center-outcomes) and maintained by [ASO Open Data Asset Owners (Animal Services)](http://data.austintexas.gov). This dataset is intended for public access and use.
+- product_catalog, treat_consumption, and survey_response data was generated using the [Faker Python package](https://pypi.org/project/Faker/) and custom scripts.
 
 ### Data Cleaning and Transformation
 
@@ -28,7 +29,8 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 - converted all coluimn names to lowercase with no spaces or special characters to better work with SQL
 - removed duplicate rows if they were identical
 - removed leading and trailing whitespace characters from column names
-- removed unused columns from the American Kennel Club dataset
+- removed unused columns
+- validated that data conforms to specific formats (date, ingteger, float, etc.)
 - checked for outliers
 - replaced NaN values with None, Unknown, or 0 values depending on column needs
 
@@ -38,91 +40,90 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 
 #### dog_breed
 
-| Column Name            | Definitions                    |
-| ---------------------- | ------------------------------ |
-| breed_id               | a unique integer for each athlete |
-| breed                  | the speciifc dog breed         |
-| temperament            | breed temperament described in keywords |
-| popularity             | popularity ranking  (1-195)    |
-| min_height             | minimum height in cm           |
-| max_height             | maximum height in cm           |
-| min_weight             | minimum weight in kg           |
-| max_weight             | maximum weight in kg           |
-| min_expectancy         | minimum life expectancy in years |
-| max_expectancy         | maximum life expectancy in years |
-| group                  | one of 9 breed groups designated by the akc |
-| energy_level_value     | numerical value representing energy level |
-| energy_level_category  | categorization of energy level |
-| trainability_value     | numerical value representing trainability |
-| trainability_category  | categorization of trainability |
-| demeanor_value         | numerical value of reaction to strangers or other pets |
-| demeanor_category      | categorization of reaction to strangers and other pets |
+| Column Name            | Definitions                    | Example |
+| ---------------------- | ------------------------------ | --------|
+| breed_id               | a unique integer for each athlete | 3 |
+| breed                  | the specifc dog breed         | Labrador Retriever |
+| temperament            | breed temperament described in keywords | Energetic, Alert, Curious |
+| popularity             | popularity ranking  (1-195)    | 5 |
+| min_height             | minimum height in cm           | 30.48 |
+| max_height             | maximum height in cm           | 40.64 |
+| min_weight             | minimum weight in kg           | 5.443108 |
+| max_weight             | maximum weight in kg           | 7.257478 |
+| min_expectancy         | minimum life expectancy in years | 12.0 |
+| max_expectancy         | maximum life expectancy in years | 15.0 |
+| energy_level_value     | numerical value representing energy level | 0.8 |
+| energy_level_category  | categorization of energy level | Energetic |
+| trainability_value     | numerical value representing trainability | 0.6 |
+| trainability_category  | categorization of trainability | Agreeable |
+| demeanor_value         | numerical value of reaction to strangers or other pets | 0.4 |
+| demeanor_category      | categorization of reaction to strangers and other pets | Reserved with Strangers |
 
 #### pet
 
-| Column Name            | Definitions                    |
-| ---------------------- | ------------------------------ |
-| id                     | a unique integer for each pet  |
-| breed_id               | foreign key connecting the dog_breed table |
-| name                   | name of the pet                |
-| dob                    | pet's date of birth            |
-| sex                    | gender of the pet              |
-| color                  | color of the pet               |
-| age                    | age of the pet when recorded   |
-| type                   | dog, cat or other              |
+| Column Name            | Definitions                    | Example |
+| ---------------------- | ------------------------------ | ------- |
+| id                     | a unique integer for each pet  | 10579 |
+| name                   | name of the pet                | Moose |
+| dob                    | pet's date of birth            | 2015-10-08 |
+| sex                    | gender of the pet              | Neutered Male	|
+| color                  | color of the pet               | White/Brown |
+| age                    | age of the pet when recorded   | 2 years |
+| type                   | dog, cat or other              | Dog |
+| breed_id               | foreign key connecting the dog_breed table | 26 |
 
 #### pet_outcome
 
-| Column Name            | Definitions                    |
-| ---------------------- | ------------------------------ |
-| id                     | a unique integer for each pet outcome |
-| pet_id                 | foreign key connecting the pet table |
-| outcome_type           |                                  |
-| outcome_subtype        |                                  |
-| outcome_datetime       | date and time of the outcome     |
+| Column Name            | Definitions                    | Example |
+| ---------------------- | ------------------------------ | ------- |
+| id                     | a unique integer for each pet outcome | 147 |
+| outcome_type           | Adoption, Return to Owner, Transfer, Rto-Adopt, Euthanasia, Died, Missing, Disposal, Stolen, Lost, Relocate | Adoption | Adoption |
+| outcome_subtype        | additional notes regarding the outcome | Out State |
+| outcome_datetime       | date and time of the outcome     | 2019-05-08 06:20:00 PM |
+| pet_id                 | foreign key connecting the pet table | 26 |
 
 #### region
 
-| Column Name            | Definitions                    |
-| ---------------------- | ------------------------------ |
-| id                     | a unique integer for each region |
-| city                   | city name                      |
-| state                  | state name                       |
-| county                 | county name                      |
-| pet_ownership_rate     | rate of pet ownershit in the region |
-| average_income         | average income of the region     |
+| Column Name            | Definitions                    | Example |
+| ---------------------- | ------------------------------ | ------- |
+| id                     | a unique integer for each region | 19 |
+| state                  | state name                       | New Jersey |
+| pet_ownership_rate     | rate of pet ownershit in the region | 29.1 |
+| average_income         | average income of the region     | 89296 |
 
 #### product_catalog
 
-| Column Name            | Definitions                      |
-| ---------------------- | -------------------------------- |
-| id                     | a unique integer for each product |
-| name                   | name of the product              |
-| flavor                 | flavor of the product            |
-| size                   | size of the product              |
-| launch_date            | date the product was released    |
-| recommended_for        | target audience of the product   |
+| Column Name            | Definitions                      | Example |
+| ---------------------- | -------------------------------- | ------- |
+| id                     | a unique integer for each product | 4 |
+| name                   | name of the product              | Bark Bites |
+| flavor                 | flavor of the product            | Chicken & Rice |
+| size                   | recommended size of dog          | Medium |
+| launch_date            | date the product was released    | 2023-02-15 |
+| recommended_for        | recommended type of dog          | Active |
 
 #### treat_consumption
 
-| Column Name            | Deinitions                       |
-| ---------------------- | -------------------------------- |
-| id                     | a unique integer for consumption |
-| breed_id               | foreign key connecting the dog_breed table |
-| product_id             | foreign key connecting the product_catalog table |
-| quantity               | number of treats consumed    |
-| frequency              | how often treats are consumed |
+| Column Name            | Deinitions                       | Example |
+| ---------------------- | -------------------------------- | ------- |
+| id                     | a unique integer for consumption | 24 |
+| quantity               | number of treats consumed    | 7 |
+| frequency              | how often treats are consumed | |
+| dog_breed_id           | foreign key connecting the dog_breed table | 6 |
+| product_catalog_id     | foreign key connecting the product_catalog table | 4 |
+
 
 #### survey_response
 
-| Column Name            | Definitions                      |
-| ---------------------- | -------------------------------- |
-| id                     | a unique integer for each survey response |
-| breed_id               | foreign key connecting the dog_breed table |
-| product_id             | foreign key connecting the product_catalog table |
-| concern_flag           |                                  |
-| interest_level         |                                  |
-| submission_date        | date of survey submission        |
+| Column Name            | Definitions                      | Example |
+| ---------------------- | -------------------------------- | ------- |
+| id                     | a unique integer for each survey response | 235 |
+| concern                | option of type of cncern the dog owner may have | |
+| interest_level         | how interested the dog was with the treat given     | |
+| respondant_name        | The name of the pet owner    | Cesar Millan |
+| submission_date        | date of survey submission        | 2025-04-19 |
+| dog_breed_id           | foreign key connecting the dog_breed table | 6 |
+| product_catalog_id     | foreign key connecting the product_catalog table | 4 |
 
 ### Regulations to Using this Data
 

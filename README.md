@@ -19,7 +19,7 @@ Doggy Delights is a fictitious company that exists to enhance the bond between p
 ### Data Sources
 
 - The dog breed data set was extracted from the [American Kennel Club website](https://www.akc.org/) by [tmfilho](https://github.com/tmfilho/akcdata). All rights to the information contained here belong to the AKC.
-- Add other sources here
+- The pet and pet outcomes dataset was extracted from them [Austin Animal Center Outcomes](https://catalog.data.gov/dataset/austin-animal-center-outcomes) and maintained by [ASO Open Data Asset Owners (Animal Services)](http://data.austintexas.gov). This dataset is intended for public access and use.
 - product_catalog, treat_consumption, and survey_response data was generated using the [Faker Python package](https://pypi.org/project/Faker/) and custom scripts.
 
 ### Data Cleaning and Transformation

@@ -6,7 +6,7 @@ DSSA-5102 - Spring 2025
 
 *Data Science and Strategic Analytics Graduate Program* - [Stockton University](https://stockton.edu)
 
-![Doggy Delights logo](https://github.com/Decabra/pet-puffs/blob/da7e229e5bfd86a678aeaf549bcc0936b8842103/images/doggy_delights_gwp_logo.png)
+![Doggy Delights logo](https://github.com/Decabra/doggy-delights/blob/124cb054556644048abd83cc5b2bb20d842968dd/images/doggy_delights_fixed_logo.png)
 
 ### Languages & Environment
 

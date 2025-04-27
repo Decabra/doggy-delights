@@ -133,17 +133,17 @@ Our data aids Doggy Delights in making critical business decisions, notably:
 
 ### Visualizations
 
-[!Top 3 Most Owned Dog Breeds](https://github.com/Decabra/doggy-delights/blob/5f46cbedc0a135e0399256611c07593d586a170a/images/top-3-owned.png)
+![Top 3 Most Owned Dog Breeds](https://github.com/Decabra/doggy-delights/blob/5f46cbedc0a135e0399256611c07593d586a170a/images/top-3-owned.png)
 
-[!Top 3 Most Adopted Breeds](https://github.com/Decabra/doggy-delights/blob/6ec76912b32f62fcc4dfe6045c90210b997ec5c0/images/top-3-adopted.png)
+![Top 3 Most Adopted Breeds](https://github.com/Decabra/doggy-delights/blob/6ec76912b32f62fcc4dfe6045c90210b997ec5c0/images/top-3-adopted.png)
 
-[!Top 3 Most Liked Products](https://github.com/Decabra/doggy-delights/blob/6ec76912b32f62fcc4dfe6045c90210b997ec5c0/images/top-3-products.png)
+![Top 3 Most Liked Products](https://github.com/Decabra/doggy-delights/blob/6ec76912b32f62fcc4dfe6045c90210b997ec5c0/images/top-3-products.png)
 
-[!Top 3 Avg Life Expectancies](https://github.com/Decabra/doggy-delights/blob/6ec76912b32f62fcc4dfe6045c90210b997ec5c0/images/top-3-life.png)
+![Top 3 Avg Life Expectancies](https://github.com/Decabra/doggy-delights/blob/6ec76912b32f62fcc4dfe6045c90210b997ec5c0/images/top-3-life.png)
 
-[!Largest Breeds that are Energetic](https://github.com/Decabra/doggy-delights/blob/35ed1c59b5dbf0a11893a84f17471905ec0eeee6/images/largest-energetic.png)
+![Largest Breeds that are Energetic](https://github.com/Decabra/doggy-delights/blob/35ed1c59b5dbf0a11893a84f17471905ec0eeee6/images/largest-energetic.png)
 
-[!Most Popular Dog Breeds](https://github.com/Decabra/doggy-delights/blob/35ed1c59b5dbf0a11893a84f17471905ec0eeee6/images/most-popular.png)
+![Most Popular Dog Breeds](https://github.com/Decabra/doggy-delights/blob/35ed1c59b5dbf0a11893a84f17471905ec0eeee6/images/most-popular.png)
 
 ### Regulations to Using this Data
 

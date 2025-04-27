@@ -32,7 +32,7 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 - removed duplicate rows if they were identical
 - removed leading and trailing whitespace characters from column names
 - removed unused columns
-- validated that data conforms to specific formats (date, ingteger, float, etc.)
+- validated that data conforms to specific formats (date, integer, float, etc.)
 - checked for outliers
 - replaced NaN values with None, Unknown, or 0 values depending on column needs
 
@@ -90,7 +90,7 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 | ---------------------- | ------------------------------ | ------- |
 | id                     | a unique integer for each region | 19 |
 | state                  | state name                       | New Jersey |
-| pet_ownership_rate     | rate of pet ownershit in the region | 29.1 |
+| pet_ownership_pct      | rate of pet ownershit in the region | 29.1 |
 | average_income         | average income of the region     | 89296 |
 
 #### product_catalog
@@ -110,7 +110,7 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 | ---------------------- | -------------------------------- | ------- |
 | id                     | a unique integer for consumption | 24 |
 | quantity               | number of treats consumed    | 7 |
-| frequency              | how often treats are consumed | |
+| frequency              | how often treats are consumed | daily |
 | dog_breed_id           | foreign key connecting the dog_breed table | 6 |
 | product_catalog_id     | foreign key connecting the product_catalog table | 4 |
 
@@ -120,8 +120,8 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 | Column Name            | Definitions                      | Example |
 | ---------------------- | -------------------------------- | ------- |
 | id                     | a unique integer for each survey response | 235 |
-| concern                | option of type of cncern the dog owner may have | |
-| interest_level         | how interested the dog was with the treat given     | |
+| concern                | option of type of cncern the dog owner may have | Dog refused to eat |
+| interest_level         | how interested the dog was with the treat given     | 3 |
 | respondant_name        | The name of the pet owner    | Cesar Millan |
 | submission_date        | date of survey submission        | 2025-04-19 |
 | dog_breed_id           | foreign key connecting the dog_breed table | 6 |

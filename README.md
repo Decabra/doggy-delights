@@ -125,6 +125,26 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 | dog_breed_id           | foreign key connecting the dog_breed table | 6 |
 | product_catalog_id     | foreign key connecting the product_catalog table | 4 |
 
+### Results
+
+Our data aids Doggy Delights in making critical business decisions, notably:
+- How best to spend marketing budget to efficiently target new and existing customers
+- Whom to feature in product marketing
+
+### Visualizations
+
+[!Top 3 Most Owned Dog Breeds](https://github.com/Decabra/doggy-delights/blob/5f46cbedc0a135e0399256611c07593d586a170a/images/top-3-owned.png)
+
+[!Top 3 Most Adopted Breeds](https://github.com/Decabra/doggy-delights/blob/6ec76912b32f62fcc4dfe6045c90210b997ec5c0/images/top-3-adopted.png)
+
+[!Top 3 Most Liked Products](https://github.com/Decabra/doggy-delights/blob/6ec76912b32f62fcc4dfe6045c90210b997ec5c0/images/top-3-products.png)
+
+[!Top 3 Avg Life Expectancies](https://github.com/Decabra/doggy-delights/blob/6ec76912b32f62fcc4dfe6045c90210b997ec5c0/images/top-3-life.png)
+
+[!Largest Breeds that are Energetic](https://github.com/Decabra/doggy-delights/blob/35ed1c59b5dbf0a11893a84f17471905ec0eeee6/images/largest-energetic.png)
+
+[!Most Popular Dog Breeds](https://github.com/Decabra/doggy-delights/blob/35ed1c59b5dbf0a11893a84f17471905ec0eeee6/images/most-popular.png)
+
 ### Regulations to Using this Data
 
 You are free to use this data in anyway you see fit, have fun. The [source data](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) is licensed under the [CCO: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/), so please respect any of their wishes and credit them where appropriate.

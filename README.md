@@ -36,8 +36,6 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 - checked for outliers
 - replaced NaN values with None, Unknown, or 0 values depending on column needs
 
-### Formulas Used in Column Creation
-
 ### Data Dictionary
 
 #### dog_breed

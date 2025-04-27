@@ -20,6 +20,8 @@ Doggy Delights is a fictitious company that exists to enhance the bond between p
 
 - The dog breed data set was extracted from the [American Kennel Club website](https://www.akc.org/) by [tmfilho](https://github.com/tmfilho/akcdata). All rights to the information contained here belong to the AKC.
 - The pet and pet outcomes dataset was extracted from them [Austin Animal Center Outcomes](https://catalog.data.gov/dataset/austin-animal-center-outcomes) and maintained by [ASO Open Data Asset Owners (Animal Services)](http://data.austintexas.gov). This dataset is intended for public access and use.
+- The pet ownership by state dataset was extracted from [The American Veterinary Medical Association (AVMA)](https://ebusiness.avma.org/Files/ProductDownloads/2019%20ECO-PetDemoUpdateErrataFINAL-20190501.pdf) by the [World Population Review](https://worldpopulationreview.com/state-rankings/pet-ownership-statistics-by-state). All rights to the information contained here belong to the AVMA.
+- The median household income by state dataset was extracted from the [US Census Bureau](https://data.census.gov/table/ACSST1Y2021.S1903?t=Income+(Households,+Families,+Individuals)&g=010XX00US$0400000&moe=false&tp=true) by the [World Population Review](https://worldpopulationreview.com/state-rankings/median-household-income-by-state). All rights to the information contained here belong to the US Census Bureau.
 - product_catalog, treat_consumption, and survey_response data was generated using the [Faker Python package](https://pypi.org/project/Faker/) and custom scripts.
 
 ### Data Cleaning and Transformation
@@ -30,7 +32,7 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 - removed duplicate rows if they were identical
 - removed leading and trailing whitespace characters from column names
 - removed unused columns
-- validated that data conforms to specific formats (date, ingteger, float, etc.)
+- validated that data conforms to specific formats (date, integer, float, etc.)
 - checked for outliers
 - replaced NaN values with None, Unknown, or 0 values depending on column needs
 
@@ -88,7 +90,7 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 | ---------------------- | ------------------------------ | ------- |
 | id                     | a unique integer for each region | 19 |
 | state                  | state name                       | New Jersey |
-| pet_ownership_rate     | rate of pet ownershit in the region | 29.1 |
+| pet_ownership_pct      | rate of pet ownershit in the region | 29.1 |
 | average_income         | average income of the region     | 89296 |
 
 #### product_catalog
@@ -108,7 +110,7 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 | ---------------------- | -------------------------------- | ------- |
 | id                     | a unique integer for consumption | 24 |
 | quantity               | number of treats consumed    | 7 |
-| frequency              | how often treats are consumed | |
+| frequency              | how often treats are consumed | daily |
 | dog_breed_id           | foreign key connecting the dog_breed table | 6 |
 | product_catalog_id     | foreign key connecting the product_catalog table | 4 |
 
@@ -118,8 +120,8 @@ Python was used to clean and transform the Doggy Delights dataset. The following
 | Column Name            | Definitions                      | Example |
 | ---------------------- | -------------------------------- | ------- |
 | id                     | a unique integer for each survey response | 235 |
-| concern                | option of type of cncern the dog owner may have | |
-| interest_level         | how interested the dog was with the treat given     | |
+| concern                | option of type of cncern the dog owner may have | Dog refused to eat |
+| interest_level         | how interested the dog was with the treat given     | 3 |
 | respondant_name        | The name of the pet owner    | Cesar Millan |
 | submission_date        | date of survey submission        | 2025-04-19 |
 | dog_breed_id           | foreign key connecting the dog_breed table | 6 |

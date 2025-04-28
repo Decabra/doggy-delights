@@ -141,6 +141,10 @@ Our data aids Doggy Delights in making critical business decisions, notably:
 
 ![Top 3 Avg Life Expectancies](https://github.com/Decabra/doggy-delights/blob/6ec76912b32f62fcc4dfe6045c90210b997ec5c0/images/top-3-life.png)
 
+![Pet Ownership Data by State](https://github.com/Decabra/doggy-delights/blob/ce72e95c682486f3e7a7ccdd3d6f9809a1ca934a/images/pet-ownership-state.png)
+
+![Median Income by State](https://github.com/Decabra/doggy-delights/blob/ce72e95c682486f3e7a7ccdd3d6f9809a1ca934a/images/median-income-state.png)
+
 ![Largest Breeds that are Energetic](https://github.com/Decabra/doggy-delights/blob/35ed1c59b5dbf0a11893a84f17471905ec0eeee6/images/largest-energetic.png)
 
 ![Most Popular Dog Breeds](https://github.com/Decabra/doggy-delights/blob/35ed1c59b5dbf0a11893a84f17471905ec0eeee6/images/most-popular.png)
